@@ -1,0 +1,67 @@
+[EXCEL]< a href-"https://github.com/raghib47/Excel-Projects-Hub/blob/main/Data%20analysing.xlsx">Data set</a>
+[Dashboard] <a href-"https://github.com/raghib47/Excel-Projects-Hub/blob/main/Screenshot%202025-09-14%20213249.png">Dash_board</a> 
+
+
+
+## 📊 Project Overview
+
+This project involves a comprehensive analysis of sales performance data for **141 executives** across various regions. The core deliverable is a clean **Excel Dashboard** that summarizes key performance metrics, highlighting top and bottom performers based on their achievement against a universal sales target.
+
+The goal was to transform raw daily sales figures into an insightful report to quickly identify high-performing individuals and those needing support.
+
+## 🎯 Objectives
+
+*   **Data Processing:** To efficiently calculate total sales from daily figures and compute key performance indicators (KPIs).
+*   **Performance Analysis:** To measure executive performance against a fixed target of 500 units.
+*   **Data Visualization:** To design a straightforward dashboard for quickly identifying top and bottom performers.
+*   **Automation:** To utilize Excel formulas for automatic calculation and ranking.
+
+## 📁 Repository Structure
+
+```
+├── 📊 Data_Analysing.xlsx   # The main Excel workbook file
+├── 📓 README.md             # This project description file
+└── 📷 Dashboard-Preview.png # Screenshot of the dashboard
+```
+
+## ⚙️ Features & Technical Implementation
+
+The project demonstrates proficiency in the following Excel functionalities:
+
+*   **Data Aggregation:**
+    *   Used `SUM()` functions to calculate **Total Sales** from daily columns (Day1-Day5).
+*   **KPI Calculation:**
+    *   Used arithmetic formulas to calculate **Target Hit %** (`Total Sales / Target`) and **Away From Target %** (`1 - Target Hit %`).
+*   **Dashboard Creation:**
+    *   Built a separate dashboard sheet that extracts and displays top and bottom performers using sorting or lookup functions.
+*   **Data Organization:**
+    *   Managed a dataset of 141+ rows efficiently within Excel.
+
+## 📈 Key Performance Indicators (KPIs)
+
+*   **Total Sales:** Sum of sales from Day 1 to Day 5.
+*   **Target Hit %:** Percentage of the 500-unit target achieved.
+*   **Away From Target %:** Percentage remaining to meet the target.
+
+## 🖼️ Dashboard Preview
+
+![image alt](https://github.com/raghib47/Excel-Projects-Hub/blob/main/Screenshot%202025-09-14%20213249.png?raw=true)
+
+The dashboard sheet provides a snapshot view of:
+*   Top 5 performers by **Total Sales**.
+*   Bottom 5 performers by **Total Sales**.
+*   Top 5 performers by **Target Hit %**.
+*   Bottom 5 performers by **Away From Target %**.
+
+## 🚀 How to Use This Project
+
+1.  Download the `Data_Analysing.xlsx` file.
+2.  Open it in **Microsoft Excel**.
+3.  Navigate between the `raw_data` and `dash_board` sheets to view the raw data and the summary analysis.
+
+## 📚 Skills Demonstrated
+
+*   **Data Analysis:** Performed end-to-end analysis on a real-world dataset.
+*   **Excel Proficiency:** Applied formulas, data organization, and basic dashboard creation.
+*   **Problem-Solving:** Designed a solution to quickly analyze executive performance.
+
