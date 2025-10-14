@@ -1,0 +1,77 @@
+# ☕ Coffee Shop Sales Dashboard (Excel Project)
+
+## 📖 Project Overview
+
+This project focuses on analyzing coffee shop sales data using **Microsoft Excel** to uncover key business insights such as sales performance, customer footfall, product demand, and peak operating hours.
+The goal was to build an **interactive and visually appealing dashboard** that helps make **data-driven decisions** for a coffee shop business.
+
+---
+
+## 🎯 Objectives
+
+* Analyze sales data to identify top-performing products and locations
+* Determine customer trends and purchase patterns
+* Visualize total sales, footfall, and revenue distribution
+* Build a dynamic Excel dashboard using Pivot Tables, Charts, and Slicers
+
+---
+
+## 📊 Key Insights
+
+* 💰 **Total Sales:** $10,523.26
+* 👣 **Total Footfall:** 2,283 customers
+* 🧾 **Average Bill per Person:** $4.61
+* ☕ **Top Product:** *Barista Espresso* – $1,494.20 in sales
+* 🏙️ **Top Location:** *Astoria* with the highest sales and footfall
+* ⏰ **Peak Hours:** Between *8 AM – 10 AM*
+* 🍰 **Category Leader:** Coffee products make up *40%* of total sales
+
+---
+
+## 🧰 Tools & Techniques
+
+* **Microsoft Excel**
+
+  * Pivot Tables
+  * Charts & Graphs
+  * Slicers for interactivity
+  * Data Cleaning & Formatting
+  * Dashboard Layout Design
+
+---
+
+## 📈 Dashboard Preview
+
+![Coffee Shop Dashboard](./dashboard.png)
+*(Replace this with the correct image path if needed)*
+
+---
+
+## 🧠 Learnings
+
+* Improved skills in **data cleaning**, **data visualization**, and **dashboard design**
+* Learned how to summarize large datasets into actionable insights
+* Enhanced understanding of **sales analytics and business KPIs**
+
+---
+
+## 🚀 How to Use
+
+1. Download the Excel file from the repository
+2. Open the file in Microsoft Excel (Desktop version recommended)
+3. Use slicers to filter by month or day to explore the data interactively
+
+---
+
+## 💬 Conclusion
+
+This project demonstrates how even simple tools like Excel can deliver **powerful data analytics solutions**.
+By combining visuals with interactivity, businesses can make smarter decisions and uncover meaningful trends from everyday data.
+
+---
+
+### 🔗 Connect with Me
+
+If you found this project interesting, feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/raghib-shahriyar-67000b383/) or explore more of my analytics projects on GitHub!
+
+---
